@@ -1,0 +1,203 @@
+html,body{
+    margin: 0;
+}
+.header-container{
+  
+    display: flex;
+    width: 1512px;
+    height: 100px;
+    background-color: black;
+}
+.left-header-container{
+   
+    width: 300px;
+    height: 700px;
+    }
+.image-header{
+    margin-left: 550px;
+    margin-top: 15px;
+  text-align: center;
+    width: 120;
+    height: 100;
+}
+.сenter-header-container{
+margin-left: 250px;
+margin-bottom: 60px;
+}
+.center-afisha{
+  font-size: 40px;
+  color: white;
+  text-align: center;
+}
+.image-button {
+  width: 102px;
+  height: 70px;
+  border: none;
+  background-image: url('/image-josef.jpg');
+  background-size: cover;
+}
+.button-header{
+  margin-left: 50px;
+  margin-top: 15px;
+}
+.YouTube{
+  width: 102px;
+  height: 70px;
+  border: none;
+  background-image: url("/images/YouTube.webp");
+  background-size: cover;
+}
+body{
+   background-image: url("/images/image-film.jpg");
+}
+.container{
+  align-items: center;
+  margin-top: -25px;
+  margin-left: 150px;
+  gap: 100px;
+  width: 1200px;
+  height: 5000px;
+  background: rgba(5, 5, 5, 0.773);
+}
+
+.title-top-film{
+  
+
+margin-bottom: 50px;
+color: white;
+text-align: center;
+
+}
+
+.title-info1{
+    border-width: 1px;
+    border-style: solid;
+    border-color: azure;
+    text-align: center;
+    color: azure;
+     border-radius: 20px;
+    margin-left: 100px;
+    width: 300px;
+    height: 400px;
+    background-color: black;
+}
+.title-info2{
+  
+  margin-left: 100px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: azure;
+    text-align: center;
+      color: azure;
+     border-radius: 20px;
+      width: 300px;
+    height: 400px;
+    background-color: black;
+}
+.title-info3{
+  margin-left: 100px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: azure;
+    text-align: center;
+      color: azure;
+     border-radius: 20px;
+    margin-right: 100px;
+      width: 300px;
+    height: 400px;
+    background-color: black;
+}
+.title-info-text{
+    text-align: left;
+    margin-left: 10px;
+}
+.background-image{
+   position:absolute ;
+    transform: translate(-70px,-190px);
+    width: 400px;
+    height: 400px;
+}
+.wraper-film-info{
+   
+  position:relative;
+  margin-top: 100px;
+   padding-bottom:50px;
+  width: 950px;
+    height: 400px;
+    margin-left: 100px;
+}
+.left-wraper1{
+
+  background-size: 300px 400px;
+  background-image: url('/images/harryPotter.jpeg');
+  margin-bottom: 25px;
+  position:absolute; 
+  bottom:0;
+    width: 300px;
+    height: 400px;
+    background-color: black;
+}
+.right-wraper{
+  text-align: center;
+  margin-bottom: 75px;
+  position:absolute;
+   bottom:0;
+   margin-left: 300px;
+  background-color: #ffffff80;
+height:300px; 
+width:700px ;
+}
+.harry-potter{
+  margin: auto;
+}
+
+.left-wraper2{
+  background-size: 300px 400px;
+  background-image: url('/images/hr2.jpg');
+  margin-bottom: 25px;
+  position:absolute; 
+  bottom:0;
+    width: 300px;
+    height: 400px;
+    background-color: black;
+}
+.left-wraper3{
+  background-size: 300px 400px;
+  background-image: url('/images/hr3.jpg');
+  margin-bottom: 25px;
+  position:absolute; 
+  bottom:0;
+    width: 300px;
+    height: 400px;
+    background-color: black;
+}
+.left-wraper4{
+  background-size: 300px 400px;
+  background-image: url('/images/hr4.jpg');
+  margin-bottom: 25px;
+  position:absolute; 
+  bottom:0;
+    width: 300px;
+    height: 400px;
+    background-color: black;
+}
+.left-wraper5{
+  background-size: 300px 400px;
+  background-image: url('/images/hr5.jpg');
+  margin-bottom: 25px;
+  position:absolute; 
+  bottom:0;
+    width: 300px;
+    height: 400px;
+    background-color: black;
+}
+.left-wraper6{
+  background-size: 300px 400px;
+  background-image: url("/images/hr6new.jpg");
+  margin-bottom: 25px;
+  position:absolute; 
+  bottom:0;
+    width: 300px;
+    height: 400px;
+    background-color: black;
+}
